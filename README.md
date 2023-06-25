@@ -13,6 +13,6 @@ Alongside building this application, you'll also learn how to:
 - Understanding and writing proper TypeScript
 - Learn Grafbase - a serverless GraphQL platform
 
-## Want to land your dream programming job in 3 - 6 months?
+## Join me on this Adventure?
 ⭐ A hellojworlddd Experience - https://hellojworlddd.live
 Join me on my path of becoming the best version of my self.
